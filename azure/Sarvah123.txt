@@ -466,7 +466,7 @@ replSet=mongors
 MongoDB Setup on Local
 
 
-db.createUser( { user: "mongoUserAdmin", pwd: "ka05em1751", roles: [{role:"userAdminAnyDatabase", db:"admin"}]})
+db.createUser( { user: "mongoUserAdmin", pwd: "bikenumberlowercase", roles: [{role:"userAdminAnyDatabase", db:"admin"}]})
 Successfully added user: {
 	"user" : "mongoUserAdmin",
 	"roles" : [
